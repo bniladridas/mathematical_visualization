@@ -11,6 +11,9 @@ The visualization renders the function `f(x) = sin(x) + ∫ e^(-x²) dx` in 3D s
 - The derivative controls the curvature and defines color gradients
 - Colors transition based on the rate of change (derivative values)
 
+## Live Demo
+The project is deployed on Vercel and can be accessed here: [https://mathematical-visualization.vercel.app](https://mathematical-visualization.vercel.app)
+
 ## Mathematical Concepts
 
 ### The Function
@@ -93,8 +96,8 @@ This creates a visually appealing gradient that highlights the mathematical prop
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/artistic-math-visualization.git
-   cd artistic-math-visualization
+   git clone https://github.com/bniladridas/mathematical_visualization.git
+   cd mathematical_visualization
    ```
 
 2. Install dependencies:
